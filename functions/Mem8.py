@@ -22,3 +22,4 @@ def normalize_columns(df):
 
     print("⚡ Normalized columns using Numba (min-max + z-score)")
     return df
+
